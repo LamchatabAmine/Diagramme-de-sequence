@@ -1,10 +1,10 @@
 # Diagramme-de-sequence
 
 ## Travail à faire :
-- Réaliser  diagramme de séquence.
+- Réaliser  le chapiter diagramme de séquence.
 
 ## Critere de Validation 
-
+le Travail doit etre planifier sur 4 Taches
 - autoformation diagramme de séquence
 - etude de cas - cas d'utilisation
 - Etude de cas - scénario
