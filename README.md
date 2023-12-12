@@ -12,7 +12,7 @@
 
 
 
-#### livrable 
+## livrable 
 
 [presentation sur diagramme de sequence -auto formation ](https://docs.google.com/presentation/d/1FYH5eZg1PP6emIQdCgOwAr8jhxlLw0iz/edit?usp=sharing&ouid=113920735924471653165&rtpof=true&sd=true)
 
@@ -20,7 +20,7 @@
 
 
 
-### Reference 
+## Reference 
 
 
 [Cours-Modélisation Orienté objet et UML](https://youtube.com/playlist?list=PLmi5sRiGSFfABDzWbYeI31886urszkeR9&si=8P1jKTfyLHk1cnlS)
