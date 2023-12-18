@@ -14,7 +14,7 @@ le Travail doit etre planifier sur 4 Taches
 
 ## livrable 
 
-[presentation sur diagramme de sequence -auto formation ](https://docs.google.com/presentation/d/1FYH5eZg1PP6emIQdCgOwAr8jhxlLw0iz/edit?usp=sharing&ouid=113920735924471653165&rtpof=true&sd=true)
+[presentation sur diagramme de sequence -auto formation ](https://docs.google.com/presentation/d/1zj1i2dmyhEHFwAoidi_AmA2jkS7nXcLvwK-YlLK6EYE/edit?usp=sharing)
 
 [Etudes de cas ](https://docs.google.com/presentation/d/1jmZdJ0VHsmU28A-6gJmygzo8xIPp2mDcZcntQGo3j3o/edit?usp=sharing)
 
